@@ -1,0 +1,6 @@
+To run a local nanoVLM-222M
+
+Clone the nanoVLM repo from huggingFace: https://huggingface.co/lusxvr/nanoVLM-222M
+Use the generate.py file as a basis
+Use the trained model from lusxvr: https://huggingface.co/lusxvr/nanoVLM
+Download files for a checkpoint to run locally: hf download lusxvr/nanoVLM --local-dir checkpoint
